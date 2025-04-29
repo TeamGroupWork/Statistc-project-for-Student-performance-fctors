@@ -32,7 +32,7 @@ We use a real-world dataset containing student demographic, social, and academic
 
 ## How to Use
 1. Clone this repository
-2. Run analysis.ipynb in a Jupyter environment
+2. Run StudentPerformanceFactors.ipynb in a Jupyter environment
 3. Explore the visualizations and statistical summaries
 
 ## Folder Structure
