@@ -30,6 +30,12 @@ We use a real-world dataset containing student demographic, social, and academic
 - Health and absences negatively affect performance.
 - Parental education and school support play moderate roles.
 
+- ## developed by
+- Saman Rahim Karim
+- Yad Mohamad nadir
+- Chovan Abubakr Baiz
+- Ahmad Nawzad Abdul
+
 ## How to Use
 1. Clone this repository
 2. Run StudentPerformanceFactors.ipynb in a Jupyter environment
